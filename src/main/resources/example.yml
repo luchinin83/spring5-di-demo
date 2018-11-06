@@ -1,0 +1,38 @@
+# this is a comment
+name: Yury
+
+names: #Comment
+    - John
+    - Raul
+    - Ringo
+
+pound_sign: "#"
+
+
+book:
+    author: Joe Bruck
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  asdf adfs dsfsdf
+  asklfjlskd sldkfjls
+  sdklfjsdlk sdklfjsdlkfj
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
+
+
